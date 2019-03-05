@@ -1,0 +1,14 @@
+{
+  "name": "v-disabled",
+  "version": "1.0.0",
+  "description": "This is a plugin for Vue.js limit button repeat clicks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "v-disabled","vue.js"
+  ],
+  "author": "dengshenkk@gmail.com",
+  "license": "ISC"
+}
